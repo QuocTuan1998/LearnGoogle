@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345837933837",
+    "project_id": "logingoolgeapi"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345837933837:android:88ec33b99a3a823f",
+        "android_client_info": {
+          "package_name": "com.example.admin.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345837933837-fgmtj0utv8h0b716juqtie72hl4ragvg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "345837933837-g2mcta62s6259f8nvutg1ndkmh9uqtgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.logingoogle",
+            "certificate_hash": "02af286e1be69cbfb9a8240e4093b0709aeac476"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgYnDBV5HSdtFvEgdcFWJwHUGTnn2cew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

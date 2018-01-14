@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginGoogle</string>
+    <string name="name">User Name</string>
+    <string name="email">Email</string>
+</resources>
